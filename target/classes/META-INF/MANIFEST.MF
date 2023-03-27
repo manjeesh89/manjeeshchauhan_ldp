@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: manjc
+Build-Jdk: 17.0.5
+Implementation-Title: Delivery API
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.zemoso.delivery
+Implementation-URL: http://maven.apache.org
+Main-Class: com.zemoso.delivery.rest.Myapplication
+Created-By: Maven Integration for Eclipse
+
